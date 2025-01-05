@@ -6,6 +6,8 @@
 </div>
 
 🔗 [사이트 바로가기](https://ssib.netlify.app/) <br/>
+[SSIB.pdf](https://github.com/user-attachments/files/18310474/SSIB.pdf)
+
 <br/>
 
 # TECH 🛠️
